@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 https://ecommerce-sales-insights-dashboard.streamlit.app/
+=======
+Streamlit Cloud : https://ecommerce-sales-insights-dashboard.streamlit.app/
+
+Repository Github : https://github.com/muhakbarhamid21/ecommerce-sales-insights-dashboard
+>>>>>>> e63822a (edit url.txt)
