@@ -1,2 +1,1 @@
-https://github.com/muhakbarhamid21/ecommerce-sales-insights-dashboard
-http://localhost:8501
+https://ecommerce-sales-insights-dashboard.streamlit.app/
