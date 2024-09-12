@@ -109,7 +109,7 @@ To run the dashboard, you need the following Python libraries installed:
 First, you need to clone the repository or download the code files:
 
 ```bash
-git clone https://github.com/muhakbarhamid21/ecommerce-sales-insights.git
+git clone https://github.com/muhakbarhamid21/ecommerce-sales-insights-dashboard
 ```
 
 Alternatively, download the ZIP file from the repository and extract it to your desired location.
